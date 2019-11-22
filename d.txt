@@ -1,8 +1,8 @@
 ﻿ddd
-<<<<<<< HEAD
+
 我是master我修改了
-=======
+
 我是branch1我修改了
->>>>>>> branch1
-branch1
+
+
 
